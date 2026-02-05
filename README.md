@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **AWS**
+- 👯 I’m looking to collaborate with **AWS**
 
 - 📫 How to reach me **nv23129@ncst.edu.bh**
 
